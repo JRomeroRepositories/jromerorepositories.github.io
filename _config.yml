@@ -16,18 +16,17 @@
 
 ## => Site Settings
 ##############################
-text_skin: orange # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-blue # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : J. Romero
-description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+title   : # Empty since logo is there
+description: A space for all projects, blogs, and papers - J. Romero # this means to ignore newlines until "Language & timezone"
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: en # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
@@ -35,11 +34,14 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
-  url       :
-  avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     :
+  name      : J. Romero
+  url       : ###jromero.ca
+  avatar    : /Users/jromero/Documents/PROJECT_SPACE/JRomero.ca Website/website_gh_hosted/jromerorepositories.github.io/assets/author_profile_pic.png # path or url of avatar image (square)
+  bio       : '''Final year student at the University of Waterloo. Graduating the Science and Business program with
+  in Physics and Economics.   
+  
+    Founder of SunSim Technologies'''
+  email     : Hello@jromero.ca
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -48,14 +50,14 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  linkedin  : jromeroyyc # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  github    : JRomeroRepositories # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: JRomeroRepositories/JRomeroRepositories.github.io
 repository_tree: master
 
 
