@@ -1,7 +1,5 @@
 ---
-layout: article
+layout: archive
 title: Projects  # Changed from 'titles' to 'title'
-key: page-projects
+key: page-archive
 ---
-
-## PROJECTS AND STUFF

@@ -3,8 +3,10 @@ header:
     url:        /index.html 
   - title:      About
     url:        /about.html
-  - title:     Projects
-    url:        /projects/
+  - title:      Projects
+    url:        /projects.html
+  - title:      Blog
+    url:        /blog.html
 
 
 
