@@ -35,12 +35,9 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : # "person" (default), "organization"
   name      : J. Romero
-  url       : ###jromero.ca
-  avatar    : /Users/jromero/Documents/PROJECT_SPACE/JRomero.ca Website/website_gh_hosted/jromerorepositories.github.io/assets/author_profile_pic.png # path or url of avatar image (square)
-  bio       : '''Final year student at the University of Waterloo. Graduating the Science and Business program with
-  in Physics and Economics.   
-  
-    Founder of SunSim Technologies'''
+  url       : jromero.ca
+  avatar    : assets/images/Profile_Photo.png # path or url of avatar image (square)
+  bio       : '''Final year student at the University of Waterloo. Graduating the Science and Business program with minors in Physics and Economics. Founder of SunSim Technologies'''
   email     : Hello@jromero.ca
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -60,6 +57,18 @@ author:
 repository: JRomeroRepositories/JRomeroRepositories.github.io
 repository_tree: master
 
+
+
+## => Collections Setup
+#######################
+collections_dir: collections
+collections:
+  blogs:
+    output: true
+  drafts:
+    output: true
+  projects:
+    output: true
 
 ## => Paths
 ##############################

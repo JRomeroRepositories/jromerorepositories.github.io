@@ -1,5 +1,8 @@
 ---
-layout: archive
-title: Projects  # Changed from 'titles' to 'title'
-key: page-archive
+layout: articles
+title: Projects 
+articles:
+  data_source: projects
+  show_excerpt: true
+key: page-projects
 ---

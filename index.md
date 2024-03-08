@@ -3,7 +3,7 @@ layout: home  # Specifies the layout to use from the _layouts directory
 article_header:
   type: cover
   image:
-    src: /home_cover.png
+    src: assets/images/covers/homepage_cover.png
 ---
 
 
