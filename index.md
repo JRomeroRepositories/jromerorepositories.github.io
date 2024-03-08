@@ -6,9 +6,8 @@ article_header:
     src: /home_cover.png
 ---
 
-# Introduction
 
-<div style="text-align: center;">
+<div class="article__header space-below-header" style="text-align: center; font-style: italic;">
 
 My name is J. Romero - I love to solve problems by impimenting great ideas and technologies in a creative way that just makes sense. 
 
