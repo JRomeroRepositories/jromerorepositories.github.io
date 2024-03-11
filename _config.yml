@@ -18,9 +18,9 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-blue # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://www.jromero.ca
 baseurl : # does not include hostname
-title   : # Empty since logo is there
+title   : ## Empty since logo is there
 description: A space for all projects, blogs, and papers - J. Romero # this means to ignore newlines until "Language & timezone"
 
 
@@ -38,7 +38,7 @@ author:
   url       : jromero.ca
   avatar    : assets/images/Profile_Photo.png # path or url of avatar image (square)
   bio       : '''Final year student at the University of Waterloo. Graduating the Science and Business program with minors in Physics and Economics. Founder of SunSim Technologies'''
-  email     : Hello@jromero.ca
+  email     : hello@jromero.ca
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...

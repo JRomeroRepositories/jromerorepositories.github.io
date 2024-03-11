@@ -9,11 +9,13 @@ article_header:
 
 <div class="article__header space-below-header" style="text-align: center; font-style: italic;">
 
-My name is J. Romero - I love to solve problems by impimenting great ideas and technologies in a creative way that just makes sense. 
 
-Have a look at my past and current project or take a stroll through a history of how I got where I am, and where I want to go.
+Howdy, I'm J. Romero. I'm passionate about solving problems by implementing great ideas and technologies, in a way that's both creative and practical. 
+I also have a passion for people, and how effective teams become more than the sum of their parts. 
 
-If you would like to connect with me, about anything at all, use the links below to reach me.
+While you're here, explore my past and current projects to see what I've been working on; or take stroll through my history to see how I got here and where I'm headed.
+
+If you would like to connect with me about anything at all, please use the links below to reach me. 
 
 
 </div>
