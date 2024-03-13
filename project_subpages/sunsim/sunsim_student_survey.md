@@ -31,7 +31,7 @@ Please be aware that the anonymity of all survey participants will be strictly p
 
 Optionally, participants may choose to provide their first name and email contact information via a separate form to enter a random draw for an incentive prize. This contact information will not be associated with their survey responses in any manner. The randomly selected student will be emailed a prize when the survey is complete.
 
-# UW Student Survey PDF Download FIX FIX FIX
+[Download the survey PDF](/assets/downloadables/PDF_files/SunSim_UW_Student_Survey.pdf)
 
 **If you are a UW student, please complete the survey below.**
 
