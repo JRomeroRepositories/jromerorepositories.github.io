@@ -18,13 +18,24 @@ article_header:
   }
 </style>
 
-#### SunSim Student Survey
-Purpose of the survey:
-lacus egestas tincidunt. Ut et justo eget enim maximus dapibus. Curabitur et urna sed quam posuere imperdiet vel rhoncus velit. Donec sem erat, ultricies at velit in, tincidunt consectetur velit. Quisque at velit at ante condimentum dictum. Cras eu orci fermentum mi sodales pharetra interdum quis libero. Integer lacinia augue eros. Nulla at augue dui. Donec eu justo suscipit urna dapibus tincidunt ac quis tellus. Sed eget augue vel mi dignissim vestibulum. Nullam ut ipsum turpis. Cras ac urna erat. Etiam pharetra pellentesque mi, non sollicitudin urna. Quisque pulvinar imperdiet mattis.
+#### SunSim UW Student Survey
+UW SunSim Survey aims to validate the Canadian university students as an early adopter segment for technical solutions addressing winter fatigue. The survey seeks to understand the prevalence and impact of winter fatigue among university students, their awareness and engagement with solutions, and their openness to adopting technological aids for enhancing light hygiene.
 
-- Integer lacinia augue eros. Nulla at augue dui. Donec eu justo suscipit urna dapibus tincidunt ac quis tellus. Sed eget augue vel mi dignissim vestibulum. Nullam ut ipsum turpis. Cras ac urna erat. Etiam pharetra pellentesque mi, non sollicitudin urna. Quisque p
-- Integer lacinia augue eros. Nulla at augue dui. Donec eu justo suscipit urna dapibus tincidunt ac quis tellus. Sed eget augue vel mi dignissim vestibulum.
-- Integer lacinia augue eros. Nulla at augue dui. Donec eapibus tincidunt ac quis tellus. Sed eget augue vel mi dignissim vestibulum. Nullam ut ipsum turpis. Cras ac urna erat. Etiam pharetra pellentesque mi, non sollicitudin urna. Quisque pulvinar imperdiet mattis.
+*Overview of the survey's purpose*
+
+- *To quantify how many students experience winter fatigue (A phenomenon characterized by low mood, lack of energy, and reduced productivity during the winter months)*
+- *To understand the extent to which winter fatigue affects students' daily activities and academic performance.*
+- *To determine students' awareness of the causes of winter fatigue, particularly the role of light, and their interest in seeking solutions.*
+- *To gauge interest in a mobile app designed to improve and maintain good light hygiene, potentially offering a novel solution to winter fatigue.*
+
+Please be aware that the anonymity of all survey participants will be strictly preserved, with no linkage between their responses and their identities.
+
+Optionally, participants may choose to provide their first name and email contact information via a separate form to enter a random draw for an incentive prize. This contact information will not be associated with their survey responses in any manner. The randomly selected student will be emailed a prize when the survey is complete.
+
+UW Student Survey PDF Download
+
+If you are a UW student, please complete the survey below. 
+
 
 #### SunSim UW Student Survey
 Purpose of the survey abreviated.
@@ -34,8 +45,14 @@ Purpose of the survey abreviated.
 </div>
 
 
-Questions? Comments? Concerns?
-This survey is by J. Romero.
+*Questions? Comments? Concerns?*
+<br><br>
+**J. Romero**
+<br>
+Founder of SunSim Technologies
+<br>
+Canidate for Bachelor of Science and Business - University of Waterloo
+
 <a class="button button--primary button--rounded button--sm" href="/project_subpages/sunsim/sunsim_student_survey_incentive.html">Send me a message</a>
 <a class="button button--primary button--rounded button--sm" href="/index.html">Visit J. Romero.ca</a>
 
@@ -43,7 +60,6 @@ This survey is by J. Romero.
 Entry to win 100$ Amazon giftcard.
 *Contact data is not linked to your responses in any way*
 <a class="button button--primary button--rounded button--sm" href="/index.html">Visit J. Romero.ca</a>
-
-
 <a class="button button--secondary button--rounded button--sm" href="/collections/_projects/0001-01-01-SunSim.md">Back to SunSim Project Page</a>
 
+<a class="button button--secondary button--rounded button--sm" href="/project_subpages/sunsim/sunsim_student_survey_incentive.md">Incentive</a>
