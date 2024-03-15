@@ -1,5 +1,9 @@
 ---
 layout: page
+# aside:
+#   toc: true
+# sidebar:
+#   nav: layouts
 cover: assets/images/project_covers_and_photos/SunSim_Images/sunsim_cover_3.png
 title: SunSim Student Survey
 header: false
