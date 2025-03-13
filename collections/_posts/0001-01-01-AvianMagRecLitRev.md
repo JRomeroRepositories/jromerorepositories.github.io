@@ -1,21 +1,3 @@
----
-layout: article
-aside:
-  toc: False
-cover: 
-title: Avian Magnetoreception Navigation Systems - Literature Review
-show_title: false
-header: false
-show_date: false
----
-<style>
-  .right-aligned-image {
-    float: right; /* Aligns the image to the right */
-    margin: 0 0 20px 20px; /* Adds space around the image */
-  }
-</style>
-
-
 # **Avian Magnetoreception Navigation Systems: A Biophysical Marvel**
 
 ### Abstract

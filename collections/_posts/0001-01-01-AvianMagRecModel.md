@@ -2,8 +2,8 @@
 layout: article
 aside:
   toc: true
-cover: 
-title: Avian Magnetorecetive Navigation Neural Network
+cover: assets/images/project_covers_and_photos/SunSim_Images/sunsim_cover_3.png
+title: SunSim Technologies
 show_title: false
 header: false
 show_date: false
@@ -13,7 +13,7 @@ show_date: false
     float: right; /* Aligns the image to the right */
     margin: 0 0 20px 20px; /* Adds space around the image */
   }
-</style>
+</style
 
 
 # Avian magneto-receptive home-point navigation: A 2-Dimensional representation and analysis

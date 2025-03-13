@@ -36,7 +36,7 @@ author:
   type      : # "person" (default), "organization"
   name      : J. Romero
   url       : jromero.ca
-  avatar    : assets/images/Profile_Photo.png # path or url of avatar image (square)
+  avatar    : 'assets/images/Profile_Photo.png' # path or url of avatar image (square)
   bio       : '''Recently graduated from the University of Waterloo - Honours Science and Business program with minors in Physics and Economics)'''
   email     : hello@jromero.ca
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
